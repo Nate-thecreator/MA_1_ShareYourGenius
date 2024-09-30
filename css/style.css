@@ -28,7 +28,7 @@ body {
 }
 .nav {
     list-style-type: none;
-    background-color: bisque;
+    background-color:grey;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -43,7 +43,7 @@ ul.nav li a {
     text-decoration: none;
 }
 ul.nav a:hover {
-    background-color:bisque;
+    background-color:blue;
     color: black;
 }
 .active {
